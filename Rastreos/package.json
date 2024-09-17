@@ -1,0 +1,18 @@
+{
+  "name": "rastreos",
+  "version": "1.0.0",
+  "description": "Modulo de Rastreo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "juan, marlon & carlos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "rastreos": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

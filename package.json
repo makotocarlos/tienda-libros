@@ -1,0 +1,18 @@
+{
+  "name": "libreria",
+  "version": "1.0.0",
+  "description": "Tienda de libros",
+  "main": "app.js",
+  "scripts": {
+    "test": "no"
+  },
+  "author": "juan, marlon & carlos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "libreria": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
