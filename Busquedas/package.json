@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "busquedas": "file:",
-    "express": "^4.21.0"
+    "express": "^4.19.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
